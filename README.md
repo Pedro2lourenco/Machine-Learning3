@@ -36,4 +36,3 @@ Além disso, o código gera um gráfico de barras horizontais exibindo os coefic
  2. Execute o bloco de importações.
  3. Siga a sequência de pré-processamento para garantir que os arrays do Numpy sejam criados corretamente.
  4. O gráfico final será exibido automaticamente após o treinamento.
- 5. 
